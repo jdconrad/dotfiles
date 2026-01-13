@@ -1,2 +1,2 @@
 org.gradle.caching=true
-org.gradle.mrjar.idea.enabled=true
+org.gradle.mrjar.idea.enabled=false

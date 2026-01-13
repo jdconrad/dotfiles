@@ -52,6 +52,7 @@ brew 'pipenv'
 cask 'docker'
 cask 'google-cloud-sdk'
 cask 'insomnia'
+cask 'memoryanalyzer'
 
 # operations
 cask 'aviatrix-vpn-client'
